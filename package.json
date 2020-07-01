@@ -10,6 +10,7 @@
   "dependencies": {
     "bootstrap-datepicker": "1.7.1",
     "bootstrap-timepicker": "0.5.2",
+    "bootstrap": "3.3.7",
     "font-awesome": "4.7.0"
   },
   "devDependencies": ""
