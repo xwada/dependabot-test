@@ -1,14 +1,15 @@
 {
   "name": "dependabot-test",
   "version": "0.0.2",
-  "private": "true",
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": "",
   "author": "",
   "license": "UNLICENSED",
   "dependencies": {
-    "bootstrap": "3.3.7",
+    "bootstrap-datepicker": "1.7.1",
+    "bootstrap-timepicker": "0.5.2",
     "font-awesome": "4.7.0"
   },
   "devDependencies": ""
